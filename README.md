@@ -28,19 +28,29 @@ Product Spec
 1. User Stories (Required and Optional)
 Required Must-have Stories
 
-User must be able to view a list of budget categories on the main screen.
+ User must be able to view a list of budget categories on the main screen. -  Completed
 
 
-User must be able to add new budget categories with specified budget amounts.
-User must be able to view detailed transactions for each category.
+ User must be able to add new budget categories with specified budget amounts. - In progress
+
+
+ User must be able to view detailed transactions for each category.
+
+ 
 User must be able to add transactions (expense or income) to each category.
+
+
 User must be able to see the remaining budget for each category after transactions are logged.
+
+
 User must be able to delete transactions and categories.
 
 
 Optional Nice-to-have Stories
 
 User can receive notifications when nearing budget limits.
+
+
 User can view graphical representations of spending habits over time.
 
 2. Screen Archetypes
