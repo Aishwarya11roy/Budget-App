@@ -29,6 +29,8 @@ Product Spec
 Required Must-have Stories
 
 User must be able to view a list of budget categories on the main screen.
+
+
 User must be able to add new budget categories with specified budget amounts.
 User must be able to view detailed transactions for each category.
 User must be able to add transactions (expense or income) to each category.
